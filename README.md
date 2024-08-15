@@ -61,5 +61,5 @@ Update social media links in the header section of index.html
 This project is licensed under the Creative Commons Attribution 3.0 License.
 
 <p align="center">
-  Made with ❤️ by [Your Name]
+  Made with ❤️ by steguess
 </p>
