@@ -16,9 +16,13 @@ A stunning photo gallery showcasing the beauty of the Swiss Alps in all seasons.
 ✨ Features
 
 📱 Responsive design for optimal viewing on all devices
+
 🚀 Lightweight and fast-loading gallery
+
 🏞️ Showcases images from various Swiss landscapes and activities
+
 🔗 Social media integration
+
 🎨 Easy to customize and extend
 
 🛠️ Installation
@@ -47,7 +51,7 @@ Update social media links in the header section of index.html
 👏 Credits
 
 🖥️ Template: Lens by HTML5 UP
-📸 Images: [Your Name or Image Source]
+📸 Images: Personal Images
 
 📄 License
 This project is licensed under the Creative Commons Attribution 3.0 License.
