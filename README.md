@@ -31,7 +31,7 @@ A stunning photo gallery showcasing the beauty of the Swiss Alps in all seasons.
 # 🛠️ Installation
 
 Clone the repository:
-bashCopygit clone https://github.com/yourusername/swiss-alps-gallery.git
+bashCopygit clone https://github.com/steguess/swiss_alps.git
 
 Navigate to the project directory:
 bashCopycd swiss-alps-gallery
