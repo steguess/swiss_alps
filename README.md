@@ -54,6 +54,7 @@ Update social media links in the header section of index.html
 # 👏 Credits
 
 🖥️ Template: Lens by HTML5 UP
+
 📸 Images: Personal Images
 
 # 📄 License
