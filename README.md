@@ -1,7 +1,7 @@
 # swiss_alps
 🏔️ Swiss Alps Gallery
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/swiss-alps-gallery/main/images/fulls/01.jpeg" alt="Swiss Alps" width="600">
+  <img src="swiss_alps.jpeg" alt="Swiss Alps" width="600">
 </p>
 <p align="center">
   <a href="#-features">Features</a> •
