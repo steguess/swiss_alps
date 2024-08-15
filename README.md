@@ -12,11 +12,11 @@
   <a href="#-license">License</a>
 </p>
 
-📜 Description
+ 📜 Description
 
 A stunning photo gallery showcasing the beauty of the Swiss Alps in all seasons. This responsive web gallery is built using HTML5 UP's Lens template, featuring a clean and modern design perfect for displaying high-quality images.
 
-✨ Features
+# ✨ Features
 
 📱 Responsive design for optimal viewing on all devices
 
@@ -28,7 +28,7 @@ A stunning photo gallery showcasing the beauty of the Swiss Alps in all seasons.
 
 🎨 Easy to customize and extend
 
-🛠️ Installation
+# 🛠️ Installation
 
 Clone the repository:
 bashCopygit clone https://github.com/yourusername/swiss-alps-gallery.git
@@ -38,25 +38,25 @@ bashCopycd swiss-alps-gallery
 
 Open index.html in your web browser to view the gallery.
 
-🖼️ Usage
+# 🖼️ Usage
 To add or modify images:
 
 Place your full-size images in the images/fulls/ directory
 Create thumbnails and place them in the images/thumbs/ directory
 Update the index.html file to include your new images in the gallery
 
-🎨 Customization
+# 🎨 Customization
 
 Modify index.html to change the gallery structure and content
 Edit assets/css/main.css to customize the styling
 Update social media links in the header section of index.html
 
-👏 Credits
+# 👏 Credits
 
 🖥️ Template: Lens by HTML5 UP
 📸 Images: Personal Images
 
-📄 License
+# 📄 License
 This project is licensed under the Creative Commons Attribution 3.0 License.
 
 <p align="center">
