@@ -11,8 +11,11 @@
   <a href="#-credits">Credits</a> •
   <a href="#-license">License</a>
 </p>
+
 📜 Description
+
 A stunning photo gallery showcasing the beauty of the Swiss Alps in all seasons. This responsive web gallery is built using HTML5 UP's Lens template, featuring a clean and modern design perfect for displaying high-quality images.
+
 ✨ Features
 
 📱 Responsive design for optimal viewing on all devices
