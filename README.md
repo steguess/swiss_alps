@@ -51,6 +51,9 @@ Modify index.html to change the gallery structure and content
 Edit assets/css/main.css to customize the styling
 Update social media links in the header section of index.html
 
+Here is a link to the webpage: 
+https://steguess.github.io/swiss_alps/
+
 # 👏 Credits
 
 🖥️ Template: Lens by HTML5 UP
